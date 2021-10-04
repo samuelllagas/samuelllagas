@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelllagas (SAMUEL LLAGAS DIAZ)
-- 👀 I’m interested in ...frontend programming
-- 🌱 I’m currently learning ... ReactJs
+- 👀 I’m interested in ...automation testing
+- 🌱 I’m currently learning ... ReactJs/automation testing
 - 💞️ I’m looking to collaborate on ... great proyects
 - 📫 How to reach me ... oslld1807@gmail.com
 
